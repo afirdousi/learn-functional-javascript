@@ -28,8 +28,6 @@ a folder in this repo.
 12. [More Examples](more-examples/README.md) 
 
 
-
-
 ## Roadmap
 
 - Adding hundreds of example on how to do functional programming
@@ -38,6 +36,22 @@ a folder in this repo.
 
 ## Other notes
 
+#### Other recommended books and URLs
+
+1. [Brian Lonsdorf's Most Adequate Guide to Function Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+2. [Chris Okasaki's Purely Functional Data Structures](http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=4b47c3066747c540cf74b295102e0f3e)
+3. [Reactiveex.io's Exercises on Functional JavaScript and RxJS](http://reactivex.io/learnrx/)
+
+#### Libraries to Functional JavaScript Libraries
+
+1. [Lodash](https://lodash.com/)
+2. [Fn JS](http://eliperelman.com/fn.js/)
+3. [Fantasy Land](https://github.com/fantasyland) - Libraries + Specification
+4. [Ramda](https://github.com/ramda/ramda)
+5. [Barely Functional](https://github.com/cullophid/barely-functional)
+6. [Functional JS](http://functionaljs.com/)
+ 
+ 
 ### PRs
 
 PRs will be open after 15th May, 2016
