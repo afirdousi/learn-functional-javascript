@@ -17,7 +17,7 @@ a folder in this repo.
 1. [Functional Programming in a snap](functional-programming-in-a-snap/README.md)
 2. [Abstractions via Functions](abstraction-via-function/README.md)
 3. [Programming Types in JavaScript](programming-types-in-javascript/README.md)
-4. [Applicative Programming](applicative-programming//README.md))
+4. [Applicative Programming](applicative-programming//README.md)
 5. [Scopes and Closures](scopes-and-closures/README.md)
 6. [Higher Order Functions](higher-order-function/README.md)
 7. [Function Builders](function-builders/README.md)
@@ -25,7 +25,7 @@ a folder in this repo.
 9. [Purity and Immutability](purity-and-immutability/README.md)
 10. [Flow Based Programming](flow-based-programming/README.md)
 11. [Functions as Classes](functions-as-classes/README.md)
- 
+12. [More Examples](more-examples/README.md) 
 
 
 
